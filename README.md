@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **jadhavkun0@gmail.com**
 
-- 📄 Know about my experiences 
-- https://drive.google.com/file/d/1SaMvP0iuF7W8_Rak31GXx0hqN0xOtpYQ/view
+- 📄 Know about my experiences - https://drive.google.com/file/d/1SaMvP0iuF7W8_Rak31GXx0hqN0xOtpYQ/view
 
 - ⚡ Fun fact **I think I am funny**
 
