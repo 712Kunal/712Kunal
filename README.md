@@ -25,7 +25,7 @@
 - 👨‍💻 All of my projects are available at [my portfolio](https://712kunal.github.io/Portfolio/)
 - 💬 Ask me about **React, JavaScript, and frontend and backend development**
 - 📫 How to reach me: **jadhavkun0@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1SaMvP0iuF7W8_Rak31GXx0hqN0xOtpYQ/view)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1VUGJjhSBlwnwSXwNO4_aO1jrybRPZpgv/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
